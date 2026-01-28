@@ -15,5 +15,6 @@ public class GitHUb {
         System.out.println("Ad : " + Name);
         System.out.println("Soyad : " + surname);
         System.out.println("Vezife : " + position);
+
     }
 }
